@@ -1,2 +1,2 @@
 # Electricity-management-system
-Electricity Management System to efficiently manage electricity consumption and billing.
+Developed using C# and Windows Forms, Electricity Management System is designed to efficiently manage electricity consumption and billing. Key functionalities include recording, analyzing electricity usage data and generating bills. The user-friendly interface allows for easy input of meter readings and automated billing calculations. This project demonstrates my proficiency in software development, database management, and user interface design in the context of energy management solutions.
